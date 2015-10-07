@@ -1,0 +1,18 @@
+{
+  "name": "pg_error_parser",
+  "version": "1.0.0",
+  "description": "Micromodule for dealing with postgres errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postgres",
+    "postgresql",
+    "error",
+    "normalize",
+    "pg"
+  ],
+  "author": "kiernan",
+  "license": "MIT"
+}
