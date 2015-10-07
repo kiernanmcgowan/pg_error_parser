@@ -41,7 +41,7 @@ client.query(text, params, function(err, result) {
   done();
   if (err) {
     err = pgep.format(err);
-    // error object now has additional keys~
+    // error object now has additional keys
     console.error(err);
     return callback(err);
   }
