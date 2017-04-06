@@ -1,6 +1,8 @@
 pg_error_parser
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kiernanmcgowan/pg_error_parser.svg)](https://greenkeeper.io/)
+
 A micro-module to make sense of error messages in postgresql. Works well with the `pg` module.
 
 ```
